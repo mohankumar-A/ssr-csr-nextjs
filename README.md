@@ -52,3 +52,7 @@ SSR libraries:
 - NextJs
     - dynamic full rich application
     - beyond static pages
+
+## Understand JavaScript SEO
+https://github.com/aneagoie/next-ssr 
+A big argument for SSR is the SEO. But how does google bot crawl your website? This is a great resource to learn about the process here: https://developers.google.com/search/docs/guides/javascript-seo-basics
